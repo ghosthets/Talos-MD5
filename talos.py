@@ -26,7 +26,7 @@ def resource_path(relative_path):
 class WAFProSoftware(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Talos - The Automaton Engine: Building ML Shields for Modern Spaces")
+        self.title("Talos MD5 - The Automaton Engine: Building ML Shields for Modern Spaces")
         self.geometry("1100x750")
         self.selected_file = None 
         self.test_file = None 
