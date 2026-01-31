@@ -28,27 +28,87 @@ Built on a foundation of **Python 3.11**, **Scikit-Learn Random Forest**, and **
 
 <div align="center">
 
-<table>
+<table width="100%">
+<thead>
 <tr>
-<td colspan="3" align="center"><b>TALOS MD5 CONSOLE</b></td>
+<th colspan="3">
+<h2>🛡️ TALOS MD5 CONSOLE</h2>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" width="33%">
+<br><br>
+<h3>🎯</h3>
+<h4>TRAIN MODEL</h4>
+<p>Build ML Models</p>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br><br>
+<h3>🔍</h3>
+<h4>PREDICT THREAT</h4>
+<p>Real-time Detection</p>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br><br>
+<h3>📊</h3>
+<h4>ANALYZE DATA</h4>
+<p>Performance Insights</p>
+<br><br>
+</td>
+</tr>
+</tbody>
+</table>
+
+<br><br>
+
+<table width="100%">
+<thead>
+<tr>
+<th colspan="3">
+<h3>📈 Real-Time Metrics</h3>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" width="25%">
+<br>
+<p><b>Accuracy</b></p>
+<h2>98.7%</h2>
+<br>
+</td>
+<td align="center" width="25%">
+<br>
+<p><b>Precision</b></p>
+<h2>97.3%</h2>
+<br>
+</td>
+<td align="center" width="25%">
+<br>
+<p><b>Recall</b></p>
+<h2>99.1%</h2>
+<br>
+</td>
+<td align="center" width="25%">
+<br>
+<p><b>F1-Score</b></p>
+<h2>98.2%</h2>
+<br>
+</td>
 </tr>
 <tr>
-<td align="center"><b>🎯 TRAIN<br>MODEL</b></td>
-<td align="center"><b>🔍 PREDICT<br>THREAT</b></td>
-<td align="center"><b>📊 ANALYZE<br>DATA</b></td>
+<td colspan="4" align="center">
+<br>
+<p><b>Threats Detected</b></p>
+<h2>🔴 1,247</h2>
+<br>
+</td>
 </tr>
-<tr>
-<td colspan="3" align="center"><b>Real-Time Metrics</b></td>
-</tr>
-<tr>
-<td align="center">Accuracy<br><b>98.7%</b></td>
-<td align="center">Precision<br><b>97.3%</b></td>
-<td align="center">Recall<br><b>99.1%</b></td>
-</tr>
-<tr>
-<td align="center">F1-Score<br><b>98.2%</b></td>
-<td align="center" colspan="2">Threats Detected<br><b>1,247</b></td>
-</tr>
+</tbody>
 </table>
 
 </div>
