@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://github.com/ghosthets/Talos-MD5/raw/main/assets/demo.gif" width="800">
+<img src="./assets/demo.gif" width="800">
 
 ## 🎯 Overview
 
