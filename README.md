@@ -16,7 +16,7 @@
 
 ---
 
-![Talos Demo](https://github.com/ghosthets/Talos-MD5/blob/main/assets/demo.gif?raw=true)
+<img src="https://github.com/ghosthets/Talos-MD5/raw/main/assets/demo.gif" width="800">
 
 ## 🎯 Overview
 
