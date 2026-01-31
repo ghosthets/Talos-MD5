@@ -199,7 +199,7 @@ python talos.py
 
 ### System Overview
 
-<div align="center">
+<div align="left">
 
 <table>
 <tr>
