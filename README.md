@@ -30,67 +30,29 @@ Built on a foundation of **Python 3.11**, **Scikit-Learn Random Forest**, and **
 
 <table>
 <tr>
-<td colspan="3" align="center">
-<h3>🛡️ TALOS MD5 CONSOLE</h3>
-</td>
+<td colspan="3" align="center"><b>TALOS MD5 CONSOLE</b></td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<br>
-<h4>🎯 TRAIN</h4>
-<p>MODEL</p>
-<br>
-</td>
-<td align="center" width="33%">
-<br>
-<h4>🔍 PREDICT</h4>
-<p>THREAT</p>
-<br>
-</td>
-<td align="center" width="33%">
-<br>
-<h4>📊 ANALYZE</h4>
-<p>DATA</p>
-<br>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td colspan="3" align="center">
-<h4>📈 Real-Time Metrics</h4>
-</td>
+<td align="center"><b>🎯 TRAIN<br>MODEL</b></td>
+<td align="center"><b>🔍 PREDICT<br>THREAT</b></td>
+<td align="center"><b>📊 ANALYZE<br>DATA</b></td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<p>Accuracy</p>
-<h3>98.7%</h3>
-</td>
-<td align="center" width="33%">
-<p>Precision</p>
-<h3>97.3%</h3>
-</td>
-<td align="center" width="33%">
-<p>Recall</p>
-<h3>99.1%</h3>
-</td>
+<td colspan="3" align="center"><b>Real-Time Metrics</b></td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<p>F1-Score</p>
-<h3>98.2%</h3>
-</td>
-<td align="center" colspan="2">
-<p>Threats Detected</p>
-<h3>1,247</h3>
-</td>
+<td align="center">Accuracy<br><b>98.7%</b></td>
+<td align="center">Precision<br><b>97.3%</b></td>
+<td align="center">Recall<br><b>99.1%</b></td>
+</tr>
+<tr>
+<td align="center">F1-Score<br><b>98.2%</b></td>
+<td align="center" colspan="2">Threats Detected<br><b>1,247</b></td>
 </tr>
 </table>
 
 </div>
+
 ### 🔥 Why Talos MD5?
 
 - ⚡ **Real-time Threat Detection** - Analyze files in milliseconds
