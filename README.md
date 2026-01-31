@@ -25,21 +25,33 @@
 Built on a foundation of **Python 3.11**, **Scikit-Learn Random Forest**, and **CustomTkinter**, Talos MD5 bridges the gap between academic ML research and real-world threat hunting operations.
 
 ### 🎨 Professional User Interface
-```
-┌─────────────────────────────────────────────────────────┐
-│                   TALOS MD5 CONSOLE                     │
-├─────────────────────────────────────────────────────────┤
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐      │
-│  │   TRAIN     │  │  PREDICT    │  │  ANALYZE    │      │
-│  │   MODEL     │  │   THREAT    │  │   DATA      │      │
-│  └─────────────┘  └─────────────┘  └─────────────┘      │
-├─────────────────────────────────────────────────────────┤
-│  Real-Time Metrics:                                     │
-│  ├─ Accuracy: 98.7%        ├─ Precision: 97.3%          │
-│  ├─ Recall: 99.1%          ├─ F1-Score: 98.2%           │
-│  └─ Threats Detected: 1,247                             │
-└─────────────────────────────────────────────────────────┘
-```
+
+<div align="center">
+
+<table>
+<tr>
+<td colspan="3" align="center"><b>TALOS MD5 CONSOLE</b></td>
+</tr>
+<tr>
+<td align="center"><b>🎯 TRAIN<br>MODEL</b></td>
+<td align="center"><b>🔍 PREDICT<br>THREAT</b></td>
+<td align="center"><b>📊 ANALYZE<br>DATA</b></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><b>Real-Time Metrics</b></td>
+</tr>
+<tr>
+<td align="center">Accuracy<br><b>98.7%</b></td>
+<td align="center">Precision<br><b>97.3%</b></td>
+<td align="center">Recall<br><b>99.1%</b></td>
+</tr>
+<tr>
+<td align="center">F1-Score<br><b>98.2%</b></td>
+<td align="center" colspan="2">Threats Detected<br><b>1,247</b></td>
+</tr>
+</table>
+
+</div>
 
 ### 🔥 Why Talos MD5?
 
