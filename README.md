@@ -16,6 +16,8 @@
 
 ---
 
+![Talos Demo](./assets/demo.gif)
+
 ## 🎯 Overview
 
 **Talos MD5** is a next-generation **neural security intelligence platform** that transforms raw threat data into actionable defense mechanisms. Leveraging state-of-the-art machine learning algorithms, Talos MD5 empowers security researchers, threat analysts, and defensive teams to detect, classify, and neutralize malicious patterns with unprecedented precision.
