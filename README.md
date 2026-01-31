@@ -28,91 +28,69 @@ Built on a foundation of **Python 3.11**, **Scikit-Learn Random Forest**, and **
 
 <div align="center">
 
-<table width="100%">
-<thead>
+<table>
 <tr>
-<th colspan="3">
-<h2>🛡️ TALOS MD5 CONSOLE</h2>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" width="33%">
-<br><br>
-<h3>🎯</h3>
-<h4>TRAIN MODEL</h4>
-<p>Build ML Models</p>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br><br>
-<h3>🔍</h3>
-<h4>PREDICT THREAT</h4>
-<p>Real-time Detection</p>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br><br>
-<h3>📊</h3>
-<h4>ANALYZE DATA</h4>
-<p>Performance Insights</p>
-<br><br>
+<td colspan="3" align="center">
+<h3>🛡️ TALOS MD5 CONSOLE</h3>
 </td>
 </tr>
-</tbody>
+<tr>
+<td align="center" width="33%">
+<br>
+<h4>🎯 TRAIN</h4>
+<p>MODEL</p>
+<br>
+</td>
+<td align="center" width="33%">
+<br>
+<h4>🔍 PREDICT</h4>
+<p>THREAT</p>
+<br>
+</td>
+<td align="center" width="33%">
+<br>
+<h4>📊 ANALYZE</h4>
+<p>DATA</p>
+<br>
+</td>
+</tr>
 </table>
 
-<br><br>
+<br>
 
-<table width="100%">
-<thead>
+<table>
 <tr>
-<th colspan="3">
-<h3>📈 Real-Time Metrics</h3>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" width="25%">
-<br>
-<p><b>Accuracy</b></p>
-<h2>98.7%</h2>
-<br>
-</td>
-<td align="center" width="25%">
-<br>
-<p><b>Precision</b></p>
-<h2>97.3%</h2>
-<br>
-</td>
-<td align="center" width="25%">
-<br>
-<p><b>Recall</b></p>
-<h2>99.1%</h2>
-<br>
-</td>
-<td align="center" width="25%">
-<br>
-<p><b>F1-Score</b></p>
-<h2>98.2%</h2>
-<br>
+<td colspan="3" align="center">
+<h4>📈 Real-Time Metrics</h4>
 </td>
 </tr>
 <tr>
-<td colspan="4" align="center">
-<br>
-<p><b>Threats Detected</b></p>
-<h2>🔴 1,247</h2>
-<br>
+<td align="center" width="33%">
+<p>Accuracy</p>
+<h3>98.7%</h3>
+</td>
+<td align="center" width="33%">
+<p>Precision</p>
+<h3>97.3%</h3>
+</td>
+<td align="center" width="33%">
+<p>Recall</p>
+<h3>99.1%</h3>
 </td>
 </tr>
-</tbody>
+<tr>
+<td align="center" width="33%">
+<p>F1-Score</p>
+<h3>98.2%</h3>
+</td>
+<td align="center" colspan="2">
+<p>Threats Detected</p>
+<h3>1,247</h3>
+</td>
+</tr>
 </table>
 
 </div>
-
 ### 🔥 Why Talos MD5?
 
 - ⚡ **Real-time Threat Detection** - Analyze files in milliseconds
