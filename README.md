@@ -31,7 +31,7 @@ Built on a foundation of **Python 3.11**, **Scikit-Learn Random Forest**, and **
 <table>
 <tr>
 <td colspan="3" align="center">
-<h6>🛡️ TALOS MD5 CONSOLE</h6>
+<h3>🛡️ TALOS MD5 CONSOLE</h3>
 </td>
 </tr>
 <tr>
@@ -67,25 +67,25 @@ Built on a foundation of **Python 3.11**, **Scikit-Learn Random Forest**, and **
 <tr>
 <td align="center" width="33%">
 <p>Accuracy</p>
-<h6>98.7%</h6>
+<h3>98.7%</h3>
 </td>
 <td align="center" width="33%">
 <p>Precision</p>
-<h6>97.3%</h6>
+<h3>97.3%</h3>
 </td>
 <td align="center" width="33%">
 <p>Recall</p>
-<h6>99.1%</h6>
+<h3>99.1%</h3>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 <p>F1-Score</p>
-<h6>98.2%</h6>
+<h3>98.2%</h3>
 </td>
 <td align="center" colspan="2">
 <p>Threats Detected</p>
-<h6>1,247</h6>
+<h3>1,247</h3>
 </td>
 </tr>
 </table>
@@ -212,21 +212,21 @@ python talos.py
 <tr>
 <td align="center" width="33%">
 <br><br>
-<h6>📥</h6>
+<h3>📥</h3>
 <h4>DATA INGESTION</h4>
 <p>Raw Input Processing</p>
 <br><br>
 </td>
 <td align="center" width="33%">
 <br><br>
-<h6>🔧</h6>
+<h3>🔧</h3>
 <h4>FEATURE ENGINEERING</h4>
 <p>Transform & Extract</p>
 <br><br>
 </td>
 <td align="center" width="33%">
 <br><br>
-<h6>🧠</h6>
+<h3>🧠</h3>
 <h4>MODEL TRAINING</h4>
 <p>ML Algorithm Processing</p>
 <br><br>
@@ -270,7 +270,7 @@ python talos.py
 <tr>
 <td colspan="3" align="center">
 <br><br>
-<h>🚀 INFERENCE & DEPLOYMENT LAYER</h6>
+<h3>🚀 INFERENCE & DEPLOYMENT LAYER</h3>
 <br>
 </td>
 </tr>
@@ -301,7 +301,7 @@ python talos.py
 <table>
 <tr>
 <td align="center" colspan="4">
-<h6>📊 PROCESSING PIPELINE FLOW</h6>
+<h3>📊 PROCESSING PIPELINE FLOW</h3>
 </td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@ python talos.py
 <table>
 <tr>
 <td align="center" colspan="3">
-<h6>🔬 MODEL ARCHITECTURE DETAILS</h6>
+<h3>🔬 MODEL ARCHITECTURE DETAILS</h3>
 </td>
 </tr>
 <tr>
